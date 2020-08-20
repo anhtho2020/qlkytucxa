@@ -57,9 +57,10 @@
                 }
         }
          else{
-                    echo "<script>";
-                    echo "alert('Tai khoan khong ton tai');";
+                echo "<script>";
+                echo "alert('Tai khoan khong ton tai');";
                     //echo "window.location=\"dangnhap_bophanquanlykytucxa.php\";";
-                    echo "</script>";
-                }
+                echo "</script>";
+				//Sửa
+        }
 ?>
