@@ -1,0 +1,87 @@
+@charset "utf-8";
+@import "http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&subset=latin,vietnamese" not all;
+@import "http://fonts.googleapis.com/css?family=Fjalla+One&subset=latin,vietnamese" not all;
+body {
+    color: #797979;
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+*::-moz-selection {
+    background: #49a7e4 none repeat scroll 0 0;
+    color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans",sans-serif;
+}
+.feature-head {
+    padding: 50px 0;
+}
+.feature-head h1 {
+    color: #475168;
+    font-family: "Fjalla One",sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 0;
+}
+.feature-head p {
+    color: #8a8b8b;
+    font-size: 18px;
+    font-weight: 300;
+}
+.f-box {
+    background: #f4f4f4 none repeat scroll 0 0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    min-height: 210px;
+    padding: 20px;
+    text-align: center;
+    transition-duration: 500ms;
+    transition-property: width, background;
+    transition-timing-function: ease;
+}
+.f-box i {
+    color: #49a7e4;
+    display: block;
+    font-size: 60px;
+    line-height: normal;
+    margin-top: 40px;
+}
+.f-box:hover, .f-box.active {
+    background: #49a7e4 none repeat scroll 0 0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    min-height: 210px;
+    padding: 20px;
+    text-align: center;
+    transition-duration: 500ms;
+    transition-property: width, background;
+    transition-timing-function: ease;
+}
+.f-box:hover i, .f-box.active i {
+    color: #fff;
+    display: block;
+    font-size: 60px;
+    line-height: normal;
+    margin-top: 40px;
+}
+.f-box:hover h2, .f-box.active h2 {
+    color: #fff;
+}
+.f-box h2 {
+    font-family: "Fjalla One",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.f-text {
+    font-size: 14px;
+    font-weight: 300;
+}
+a:hover {
+    text-decoration: none;
+}
+.neokebox a {
+    color: #797979;
+}
