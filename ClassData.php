@@ -193,6 +193,7 @@ class clsData{
                                     <li><a  href="ktx_sinhviendangkynoitru2017.php"> HSSV Đăng Ký Nội Trú </a></li>
                                     <li><a  href="ktx_danhsachsinhviendangkynoitru2017.php"> DS_HSSV ĐK Nội Trú</a></li>
                                     <li><a  href="ktx_danhsachsinhviennoitru2017.php"> DS HSSV Nội Trú</a></li>
+									<li><a  href="ktx_danhsachsinhviennoitrutheophong2017.php"> DS HSSV THEO PHÒNG </a></li>
                                     <li><a  href="ktx_danhsachsinhvienoktx_dangkytamtru2017.php"> DS tạm trú </a></li>
                                     <li><a  href="ktx_danhsachsinhvienoktx_dangkytamtru_tn_dn2017.php"> DS tạm trú TN-DN </a></li>
                                     <li><a  href="ktx_traphong2017.php"> Trả phòng </a></li>
